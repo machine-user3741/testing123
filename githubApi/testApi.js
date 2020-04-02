@@ -1,7 +1,22 @@
-{
-    "key1" : 1,
-    "key2" : 2,
-    "keyToArray" : [
-        "element1", "element2", "element3"
-    ]
-}
+var testVar = {
+  "someKey": [
+    {
+      "inner1": "Some text",
+      "inner2": "Some more text",
+      "latLng": {
+        "lat": 123.456789,
+        "lng": -123.456789
+      },
+      "id": 1
+    },
+    {
+      "inner1": "Some text",
+      "inner2": "Some more text",
+      "latLng": {
+        "lat": 123.456789,
+        "lng": -123.456789
+      },
+      "id": 2
+    }
+  ]
+};
