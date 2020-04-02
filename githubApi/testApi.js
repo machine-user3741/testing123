@@ -1,4 +1,4 @@
-var newVar = {
+var yeet = {
   "someKey": [
     {
       "inner1": "Some text",
