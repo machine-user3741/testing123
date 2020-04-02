@@ -1,4 +1,4 @@
-var testVar = {
+var newVar = {
   "someKey": [
     {
       "inner1": "Some text",
