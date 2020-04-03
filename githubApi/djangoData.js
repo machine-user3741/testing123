@@ -29,6 +29,16 @@ var locationsObj = {
         "lng": "-113.633990"
       },
       "place_id": "ChIJBXJ5ofkloFMRuySIVM2bBSQ"
+    },
+    {
+      "id": 4,
+      "name": "SAFEWAY",
+      "address": "ST ALBERT TRAIL",
+      "latLng": {
+        "lat": "53.644933",
+        "lng": "-113.625414"
+      },
+      "place_id": "ChIJvebe2OAloFMRRRvTILmL93g"
     }
   ]
 };
