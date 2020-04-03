@@ -19,6 +19,16 @@ var locationsObj = {
         "lng": "-113.636485"
       },
       "place_id": "ChIJHzoDH_oloFMRoykr0q76h80"
+    },
+    {
+      "id": 3,
+      "name": "WALMART",
+      "address": "St. Albert Trail",
+      "latLng": {
+        "lat": "53.659146",
+        "lng": "-113.633990"
+      },
+      "place_id": "ChIJBXJ5ofkloFMRuySIVM2bBSQ"
     }
   ]
 };
