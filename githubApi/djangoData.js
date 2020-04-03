@@ -9,16 +9,6 @@ var locationsObj = {
         "lng": "-113.633990"
       },
       "place_id": "ChIJBXJ5ofkloFMRuySIVM2bBSQ"
-    },
-    {
-      "id": 88,
-      "name": "EB GAMES",
-      "address": "EDMONTON",
-      "latLng": {
-        "lat": "53.485036",
-        "lng": "-113.514082"
-      },
-      "place_id": "ChIJyQr8NUQfoFMRpQjI0R6CESA"
     }
   ]
 };
